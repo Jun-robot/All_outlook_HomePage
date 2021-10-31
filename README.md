@@ -1,1 +1,3 @@
 # All_outlook_HomePage
+
+All_outlookのホームページ用リポジトリ
