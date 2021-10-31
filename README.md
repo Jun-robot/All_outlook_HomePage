@@ -1,3 +1,3 @@
-# All_outlook_HomePage
+# Jumpei-s.github.io
 
-All_outlookのホームページ用リポジトリ
+URL:https://jun-robot.github.io/Jumpei-s.github.io/
