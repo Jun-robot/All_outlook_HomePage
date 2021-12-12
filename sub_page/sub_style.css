@@ -33,7 +33,7 @@
 
 
 .subpage-person{
-    margin: 0px 0px 30px 0px;
+    margin: 10px 0px 50px 0px;
     /* background-color: rgba(219, 85, 75, 0.233); */
 }
 
@@ -95,4 +95,21 @@
 .result-data {
     padding-left: 10px;
     font-size: 30px;
+}
+
+/* Robotsのとこ用 */
+.robot-data{
+    margin-top:10px;
+    padding-left: 10px;
+    font-size: 30px;
+}
+.robot-img {
+    padding-left: 10px;
+    width: 100%;
+    max-width: 500px;
+    margin-top:0px;
+}
+
+.robot-versinon{
+    margin-bottom: 30px;
 }
