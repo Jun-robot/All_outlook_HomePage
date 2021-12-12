@@ -75,23 +75,24 @@
 
 /* ↓SNSのとこ用 */
 
-/* .side{
-    background-color: cyan;
-}
-.person-img{
-    background-color: rgb(255, 102, 0);
-}
-.person-name{
-    background-color: rgb(255, 0, 242);
-} */
-
-
-
-/* .subpage-person a:link, a:visited,  a:active {
+.subpage-person a:link, a:visited,  a:active {
     color: #111;
-  } */
-  
-  
+  }
+
 .subpage-person a:hover {
     color: rgb(122, 165, 210);
   }
+
+  
+/* ↓Resultのとこ用 */
+.result-img {
+    padding-left: 10px;
+    width: 100%;
+    max-width: 700px;
+    margin-top:10px;
+}
+
+.result-data {
+    padding-left: 10px;
+    font-size: 30px;
+}
