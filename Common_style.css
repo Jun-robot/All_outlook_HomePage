@@ -14,6 +14,7 @@ body {
 
 a {
   text-decoration: none;
+  color: #111;
 }
 
 img {
@@ -92,17 +93,15 @@ img {
 /*--------------------フッダー部分--------------------*/
 .footer {
   background-color: #DDD;
-  height:57px;
+  height: 57px;
 }
 
 .copy {
-color:#111;
-/* background-color: #E08; */
-font-size: 20px;
-margin: 0px auto;
-width:280px;
+  color: #111;
+  /* background-color: #E08; */
+  font-size: 20px;
+  margin: 0px auto;
+  width: 280px;
 }
+
 /*--------------------フッダー部分ここまで--------------------*/
-
-
-
