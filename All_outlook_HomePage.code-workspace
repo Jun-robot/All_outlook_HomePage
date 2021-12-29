@@ -1,16 +1,7 @@
 {
-<<<<<<< Updated upstream
     "folders": [
         {
             "path": "."
         }
     ]
-=======
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
->>>>>>> Stashed changes
 }
