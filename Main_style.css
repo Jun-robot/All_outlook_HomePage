@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&family=Roboto:wght@700&display=swap');
+
+/* サイト全体のフォント指定 */
+
+body {
+    font-family: 'Roboto', 'Noto Sans JP', sans-serif;
+}
+
+body {
+    background: linear-gradient(to top, rgba(193, 231, 193, 0.7) 0%, rgba(106, 205, 216, 0.7) 100%), url(images/Robot-0.jpg);
+    /* background-image: url(images/Robot-0.jpg); */
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    /* background-color: #333;
+    background-blend-mode: hard-light; */
+}
+
+.content {
+    text-align: center;
+    padding: 10px 40px;
+    width: 450px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.content h1 {
+    color: rgb(250, 250, 250);
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(250, 250, 250);
+    font-size: 38px;
+}
+
+a:hover {
+    color: rgb(27, 27, 27);
+}
